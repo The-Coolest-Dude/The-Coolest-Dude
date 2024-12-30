@@ -14,22 +14,11 @@
 <!--     <img src="icons/powershell.svg" alt="Powershell" width="40" height="40"/> -->
 <!--     <img src="icons/r.svg" alt="R (Statistics)" width="40" height="40"/> -->
 </p>
-<p align="center">
-    <img src="icons/numpy.svg" alt="Numpy" width="40" height="40"/>
-    <img src="icons/scipy.svg" alt="SciPy" width="40" height="40"/>
-    <img src="icons/matplotlib.svg" alt="MatPlotLib" width="40" height="40"/>
-<!--     <img src="icons/sfml.svg" alt="SFML" width="40" height="40"/> -->
-<!--     <img src="icons/manim.svg" alt="Manimation" width="40" height="40"/> -->
-</p>
-<p align="center">
-    <img src="icons/javascript.svg" alt="Javascript" width="40" height="40"/>
-</p>
 
 <!-- Programming Technologies -->
 <h2 align="center">Technologies</h2>
 <p align="center">
     <img src="icons/vscode.svg" alt="Visual Studio Code" width="40" height="40"/>
     <img src="icons/vs.svg" alt="Visual Studio" width="40" height="40"/>
-    <img src="icons/github.svg" alt="GitHub" width="40" height="40"/>
     <img src="icons/overleaf.svg" alt="Overleaf" width="40" height="40"/>
 </p>
