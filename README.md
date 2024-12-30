@@ -1,6 +1,17 @@
 <!-- README Header -->
 <!-- <h1 align="center">Hello👋 I'm Chris!</h1> -->
 
+# ⚛️ Chris Gravina 
+
+**`Theoretical Physicist`**
+
+I'm a BS-MS student studying at Rochester Institute of Technology. My goal is to pursue theoretical quantum physics; using coding as a means to an end. 
+
+   </p>
+
+---
+
+
 <!-- Programming Languages -->
 <h2 align="center">Programming Languages</h2>
 <p align="center">
